@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rashmika1111
-- 👀 I’m interested in data analytics,buiseness analytics,game develpmnt,web develpoment,social media handling 
+- 👀 I’m interested in data analytics,buiseness analytics,game development,web develpoment,social media handling,mobile app develpoement
 - 🌱 I’m currently learning data analytics,web develpoment,mobile app development
 - 💞️ I’m looking to collaborate on new exciting project development also maintaining systems
 - 📫 How to reach me rashmikanaveen111@gmail.com
